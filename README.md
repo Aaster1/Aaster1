@@ -64,11 +64,6 @@
 <br>
 <br>
 
-chuyj15/OBM
-
-<br>
-<br>
-
 <b>Middle-Project : LiveDom</b>
 <br>
 <a href="https://github.com/Kimjunhyuk0320/liveDom">

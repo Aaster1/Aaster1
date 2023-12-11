@@ -55,6 +55,29 @@
 <br>
 <br>
 
+<b>first-Project : Our Beautiful MiniProject</b>
+<br>
+<a href="https://github.com/chuyj15/OBM">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chuyj15&repo=OBM"/>
+</a>
+
+<br>
+<br>
+
+chuyj15/OBM
+
+<br>
+<br>
+
+<b>Middle-Project : LiveDom</b>
+<br>
+<a href="https://github.com/Kimjunhyuk0320/liveDom">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kimjunhyuk0320&repo=liveDom"/>
+</a>
+
+<br>
+<br>
+
 <b>Java</b>
 <br>
 <a href="https://github.com/Aaster1/JAVA_KJS/tree/main/JAVA"> 
@@ -65,7 +88,7 @@
 <br>
 <br>
 
-<b>JavaScript</b>
+<b>HCJ</b>
 <br>
 <a href="https://github.com/Aaster1/JavaScript">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaster1&repo=JavaScript"/>
@@ -74,25 +97,26 @@
 <br>
 <br>
 
-<b>Middle-Project : LiveDom</b>
+<b>Database : Oracle</b>
 <br>
-<a href="https://github.com/Kimjunhyuk0320/liveDom">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kimjunhyuk0320&repo=liveDom"/>
+<a href="https://github.com/Aaster1/ORACLE_KJS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaster1&repo=ORACLE_KJS"/>
 </a>
 
 <br>
 <br>
 
-<b>Middle-Project : LiveDom</b>
+<b>Node.js</b>
 <br>
-<a href="https://github.com/Kimjunhyuk0320/liveDom">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kimjunhyuk0320&repo=liveDom"/>
+<a href="https://github.com/Aaster1/Node">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaster1&repo=Node"/>
 </a>
 
+<br>
+<br>
 
-
-
-
-
-https://github.com/Aaster1/JAVA_KJS/tree/main/JAVA
-https://github.com/Aaster1/JavaScript
+<b>REACT</b>
+<br>
+<a href="https://github.com/Aaster1/REACT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaster1&repo=REACT"/>
+</a>

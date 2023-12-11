@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=Aster&fontSize=32" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=363636&height=120&section=header&text=Aster&fontSize=32" />
 <h1>Aaster</h1>
 <br>
 <br>

@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=7BD1D2&height=120&section=header&text=Aster&fontSize=32&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=7BD1D2&height=120&section=header&text=Aster&fontSize=32&fontColor=ffffff&fontAlign=70" />
 <h1>Aaster</h1>
 <br>
 <br>

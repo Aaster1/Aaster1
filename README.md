@@ -21,7 +21,7 @@
         
         <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
         <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-        <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 
         <img src="https://camo.githubusercontent.com/a42414a504798907ccd17dfc5fd436295ffee77b977fba640ab3d1aca143530e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446576746f6f6c732d3644423333463f7374796c653d666c6174266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Devtools-6DB33F?style=flat&amp;logo=springboot&amp;logoColor=white" style="max-width: 100%;">
         <img src="https://github.com/Aaster1/Aaster1/assets/141020545/2716d795-b413-4b39-b51d-30f508caac75" style="max-width: 100px;">

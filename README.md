@@ -8,7 +8,7 @@
 
 ## My DevSkills
 <hr>
-
+<p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -23,7 +23,7 @@
         <img src="https://camo.githubusercontent.com/c7b85571a69de189eeb84f43743efc803146c98737775e54bc3636aa9e1b2457/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6f6d626f6b2d3644423333463f7374796c653d666c6174266c6f676f3d4c6f6d626f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Lombok-6DB33F?style=flat&amp;logo=Lombok&amp;logoColor=white" style="max-width: 100%;">        
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
        <img src="https://camo.githubusercontent.com/6108ce82875d257a6b0018a9adfe32d7253147a771f8c9b694886831615ade06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7472656c6c6f2d3030353243433f7374796c653d666c6174266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/trello-0052CC?style=flat&amp;logo=trello&amp;logoColor=white" style="max-width: 100%;">
-       
+   </p>    
 
 
 <br>
